@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity7.2</string>
+    <string name="expand_buttons_content_description">Expand</string>
+    <string name="expand_button_content_description">Buttton</string>
+</resources>
